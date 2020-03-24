@@ -31,7 +31,7 @@ You can see the code for the API and bot (built using Natural Language Processin
     - End-to-end integration tests: Cypress
     - Unit tests: Jest, Enzyme
 - Networking: axios (for GET/POST requests to API)
-- Chatbot API: [View Here](https://github.com/meghaniankov/finbot-api)
+- Chatbot API: Python/Django [(view here)](https://github.com/meghaniankov/finbot-api)
 
 ### Deployment
 - Servers: Heroku
